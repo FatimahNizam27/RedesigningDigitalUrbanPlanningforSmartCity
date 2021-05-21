@@ -1,0 +1,2 @@
+# RedesigningDigitalUrbanPlanningforSmartCity
+This project utilized the dataset obtained from the City of Geelong Australia. The dataset focuses on the IoT devices that are installed in the city's locations. K-means clustering algorithm is used to classify the IoT devices according to the their installed locations. This will help us to understand which IoT devices are suitable to use at the areas being developed in the city.
