@@ -1,0 +1,2325 @@
+﻿device_use,devicetype,latitude,longitude,location_parameters,device_status,network,Cost
+Wifi Device Counter,nCounter,-38.1686428,144.3509363,unknown,unknown,LoraWAN (TTN),90673
+Wifi Device Counter,nCounter,-38.1691458,144.3511856,unknown,Active,LoraWAN (TTN),76450
+Wifi Device Counter,nCounter,-38.1687411,144.3510241,unknown,unknown,LoraWAN (TTN),96542
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1496331,144.360899,unknown,unknown,LoraWAN (TTN),47938
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1493579,144.3595975,unknown,unknown,LoraWAN (TTN),24520
+Wifi Device Counter,Cisco Meraki,-38.147158,144.358161,unknown,unknown,Not LoraWAN,87320
+Wifi Device Counter,Cisco Meraki,-38.143364,144.361926,unknown,unknown,Not LoraWAN,18239
+Wifi Device Counter,Cisco Meraki,-38.147308,144.373781,unknown,unknown,Not LoraWAN,93636
+Wifi Device Counter,nCounter,-38.147906,144.363372,unknown,unknown,LoraWAN (TTN),88371
+Wifi Device Counter,nCounter,-38.1469395,144.3599357,unknown,unknown,LoraWAN (TTN),12397
+Wifi Device Counter,nCounter,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),60697
+Wifi Device Counter,Cisco Meraki,-38.147929,144.358854,unknown,unknown,Not LoraWAN,93004
+Wifi Device Counter,Cisco Meraki,-38.14768,144.361951,unknown,unknown,Not LoraWAN,96914
+Parking,Turbo,-38.1482576,144.3638867,2P Parrallel,Active,LoraWAN (TTN),85080
+Parking,Turbo,-38.1526821,144.3634288,2P Median,Active,LoraWAN (TTN),66529
+Parking,Turbo,-38.1485746,144.3602221,2P Parrallel,Active,LoraWAN (TTN),65566
+Parking,Turbo,-38.1475031,144.3573301,2P Parrallel,Active,LoraWAN (TTN),72528
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),2683
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),34743
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),43818
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),70087
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),84634
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),45125
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),80039
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),66691
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,59946
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,97653
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,69496
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,81618
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,60410
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,34418
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,26613
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,81632
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),51377
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),14565
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),58682
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),54721
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),47059
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),39385
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),38980
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),90699
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),58791
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),33058
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),43362
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,39046
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,50304
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,61898
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,16818
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,41481
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),84579
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),9886
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),6856
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),18649
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),82440
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),87687
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),45132
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),46502
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),65901
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,18462
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),3887
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),52404
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),29860
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),93199
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),34891
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),59722
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),81703
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),10552
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),10820
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),96799
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),31052
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),61279
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),92529
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),68951
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,51773
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,15592
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,20868
+Wifi Device Counter,nCounter,-38.1686428,144.3509363,unknown,unknown,LoraWAN (TTN),7014
+Wifi Device Counter,nCounter,-38.1691458,144.3511856,unknown,Active,LoraWAN (TTN),83048
+Wifi Device Counter,nCounter,-38.1687411,144.3510241,unknown,unknown,LoraWAN (TTN),69873
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1496331,144.360899,unknown,unknown,LoraWAN (TTN),87845
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1493579,144.3595975,unknown,unknown,LoraWAN (TTN),36520
+Wifi Device Counter,Cisco Meraki,-38.147158,144.358161,unknown,unknown,Not LoraWAN,62206
+Wifi Device Counter,Cisco Meraki,-38.143364,144.361926,unknown,unknown,Not LoraWAN,93471
+Wifi Device Counter,Cisco Meraki,-38.147308,144.373781,unknown,unknown,Not LoraWAN,88874
+Wifi Device Counter,nCounter,-38.147906,144.363372,unknown,unknown,LoraWAN (TTN),77215
+Wifi Device Counter,nCounter,-38.1469395,144.3599357,unknown,unknown,LoraWAN (TTN),10002
+Wifi Device Counter,nCounter,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),57658
+Wifi Device Counter,Cisco Meraki,-38.147929,144.358854,unknown,unknown,Not LoraWAN,18919
+Wifi Device Counter,Cisco Meraki,-38.14768,144.361951,unknown,unknown,Not LoraWAN,23230
+Parking,Turbo,-38.1482576,144.3638867,2P Parrallel,Active,LoraWAN (TTN),99410
+Parking,Turbo,-38.1526821,144.3634288,2P Median,Active,LoraWAN (TTN),72437
+Parking,Turbo,-38.1485746,144.3602221,2P Parrallel,Active,LoraWAN (TTN),87662
+Parking,Turbo,-38.1475031,144.3573301,2P Parrallel,Active,LoraWAN (TTN),52265
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),87959
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),80088
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),5170
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),69491
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),1880
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),23769
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),40095
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),72283
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,49722
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,13698
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,97297
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,41023
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,97534
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,29818
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,10653
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,5752
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),1295
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),77600
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),30027
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),74112
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),3643
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),27835
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),88632
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),55348
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),77955
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),19232
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),47293
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,18498
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,89789
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,92235
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,98000
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,45876
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),50043
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),28114
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),2936
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),23296
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),36507
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),69432
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),77678
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),22467
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),53490
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,49113
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),67222
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),26799
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),91379
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),34013
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),45859
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),17979
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),94155
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),92450
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),39355
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),38747
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),60194
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),74326
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),80204
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),73481
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,84119
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,43209
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,14516
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),5614
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),64721
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),62086
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),72577
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),44485
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),20625
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),59155
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),79219
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,2481
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,19225
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,62896
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,29994
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,81421
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,99970
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,30262
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,84589
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),81169
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),34216
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),28825
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),91238
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),19887
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),4962
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),64738
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),19964
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),26729
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),84266
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),79850
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,6913
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,39991
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,48347
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,56290
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,14499
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),9527
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),5027
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),3511
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),25530
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),73189
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),57774
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),9701
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),10066
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),68425
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,78510
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),78295
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),40974
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),13983
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),40781
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),52792
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),51579
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),53402
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),50120
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),84577
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),6902
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),67460
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),18487
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),19236
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),19038
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,97933
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,81287
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,30052
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),82151
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),70660
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),40986
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),74347
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),2535
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),31005
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),61611
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),32321
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,7719
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,42105
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,69831
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,13579
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,80587
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,9683
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,85014
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,13165
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),63653
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),84652
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),91798
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),71452
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),81502
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),10086
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),30050
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),11235
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),5351
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),33296
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),47248
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,42494
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,89419
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,34840
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,41891
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,77418
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),65085
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),15979
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),20855
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),39117
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),22624
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),7995
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),60762
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),73706
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),87430
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,35844
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),83059
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),24400
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),98816
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),84954
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),43330
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),3690
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),71998
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),38801
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),47747
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),88553
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),67422
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),73554
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),60200
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),24040
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,82587
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,84760
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,3959
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),52231
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),71634
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),59650
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),90051
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),81997
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),69045
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),22950
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),48166
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,81381
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,39346
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,55559
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,76580
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,34827
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,87288
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,49526
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,95730
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),81937
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),59570
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),52979
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),59461
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),61761
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),18458
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),76378
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),92342
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),12460
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),31579
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),15311
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,36860
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,38142
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,82942
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,49377
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,35574
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),98247
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),57002
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),13343
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),25508
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),94084
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),24816
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),44966
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),42190
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),92629
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,35372
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),40125
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),14435
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),52238
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),38520
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),95854
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),48999
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),58092
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),27275
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),94891
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),45618
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),12953
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),82651
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),28452
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),12948
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,5743
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,56035
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,10429
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),4848
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),43872
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),68028
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),51993
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),32222
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),61281
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),57086
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),87685
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,48795
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,66152
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,88312
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,74667
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,27220
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,59258
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,86109
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,9632
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),72287
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),98446
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),34865
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),77642
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),16572
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),85289
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),10442
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),35808
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),45422
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),1854
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),71416
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,16179
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,40131
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,33431
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,4275
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,97830
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),99634
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),14543
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),39096
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),97411
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),32045
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),51656
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),68076
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),37870
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),10952
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,60940
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),35461
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),2849
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),83040
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),53105
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),71933
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),26409
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),70002
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),70548
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),74637
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),79268
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),34234
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),90291
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),34382
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),99001
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,41399
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,68485
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,90479
+Wifi Device Counter,nCounter,-38.1686428,144.3509363,unknown,unknown,LoraWAN (TTN),97433
+Wifi Device Counter,nCounter,-38.1691458,144.3511856,unknown,Active,LoraWAN (TTN),79524
+Wifi Device Counter,nCounter,-38.1687411,144.3510241,unknown,unknown,LoraWAN (TTN),23496
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1496331,144.360899,unknown,unknown,LoraWAN (TTN),69113
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1493579,144.3595975,unknown,unknown,LoraWAN (TTN),45188
+Wifi Device Counter,Cisco Meraki,-38.147158,144.358161,unknown,unknown,Not LoraWAN,8891
+Wifi Device Counter,Cisco Meraki,-38.143364,144.361926,unknown,unknown,Not LoraWAN,59429
+Wifi Device Counter,Cisco Meraki,-38.147308,144.373781,unknown,unknown,Not LoraWAN,5542
+Wifi Device Counter,nCounter,-38.147906,144.363372,unknown,unknown,LoraWAN (TTN),5014
+Wifi Device Counter,nCounter,-38.1469395,144.3599357,unknown,unknown,LoraWAN (TTN),4548
+Wifi Device Counter,nCounter,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),5075
+Wifi Device Counter,Cisco Meraki,-38.147929,144.358854,unknown,unknown,Not LoraWAN,74614
+Wifi Device Counter,Cisco Meraki,-38.14768,144.361951,unknown,unknown,Not LoraWAN,29206
+Parking,Turbo,-38.1482576,144.3638867,2P Parrallel,Active,LoraWAN (TTN),89749
+Parking,Turbo,-38.1526821,144.3634288,2P Median,Active,LoraWAN (TTN),20488
+Parking,Turbo,-38.1485746,144.3602221,2P Parrallel,Active,LoraWAN (TTN),85751
+Parking,Turbo,-38.1475031,144.3573301,2P Parrallel,Active,LoraWAN (TTN),15430
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),13465
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),40232
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),76146
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),24699
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),90436
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),38109
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),28671
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),33058
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,99369
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,79733
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,63222
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,67275
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,7901
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,11158
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,34882
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,62680
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),99775
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),93860
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),66898
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),15180
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),4194
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),34480
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),80035
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),60538
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),4947
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),88963
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),72922
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,52112
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,37364
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,62757
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,91763
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,97606
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),40668
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),44542
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),75955
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),56644
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),78671
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),95818
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),34919
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),31274
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),82390
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,45660
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),63800
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),60355
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),96192
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),8588
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),14371
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),7687
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),47674
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),73338
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),26125
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),34606
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),54393
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),49612
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),15615
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),41339
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,89389
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,49169
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,30115
+Wifi Device Counter,nCounter,-38.1686428,144.3509363,unknown,unknown,LoraWAN (TTN),3757
+Wifi Device Counter,nCounter,-38.1691458,144.3511856,unknown,Active,LoraWAN (TTN),22783
+Wifi Device Counter,nCounter,-38.1687411,144.3510241,unknown,unknown,LoraWAN (TTN),20509
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1496331,144.360899,unknown,unknown,LoraWAN (TTN),31505
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1493579,144.3595975,unknown,unknown,LoraWAN (TTN),97663
+Wifi Device Counter,Cisco Meraki,-38.147158,144.358161,unknown,unknown,Not LoraWAN,67718
+Wifi Device Counter,Cisco Meraki,-38.143364,144.361926,unknown,unknown,Not LoraWAN,29946
+Wifi Device Counter,Cisco Meraki,-38.147308,144.373781,unknown,unknown,Not LoraWAN,81940
+Wifi Device Counter,nCounter,-38.147906,144.363372,unknown,unknown,LoraWAN (TTN),90184
+Wifi Device Counter,nCounter,-38.1469395,144.3599357,unknown,unknown,LoraWAN (TTN),32117
+Wifi Device Counter,nCounter,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),47161
+Wifi Device Counter,Cisco Meraki,-38.147929,144.358854,unknown,unknown,Not LoraWAN,94493
+Wifi Device Counter,Cisco Meraki,-38.14768,144.361951,unknown,unknown,Not LoraWAN,57433
+Parking,Turbo,-38.1482576,144.3638867,2P Parrallel,Active,LoraWAN (TTN),11311
+Parking,Turbo,-38.1526821,144.3634288,2P Median,Active,LoraWAN (TTN),78498
+Parking,Turbo,-38.1485746,144.3602221,2P Parrallel,Active,LoraWAN (TTN),96445
+Parking,Turbo,-38.1475031,144.3573301,2P Parrallel,Active,LoraWAN (TTN),51661
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),29047
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),61110
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),25773
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),71992
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),14315
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),59060
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),48383
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),26143
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,34032
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,16999
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,42449
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,41731
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,68808
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,98871
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,64942
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,83216
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),33270
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),3887
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),71333
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),30976
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),20791
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),68930
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),77139
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),41402
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),75894
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),22543
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),36706
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,96359
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,25376
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,84931
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,58315
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,26383
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),59048
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),83971
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),65586
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),49559
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),13856
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),50317
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),50755
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),73413
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),99724
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,99422
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),52997
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),49711
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),89820
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),74901
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),71713
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),33816
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),89662
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),58394
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),46262
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),20364
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),54665
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),17042
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),59767
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),59694
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,1838
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,73791
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,53645
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),79569
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),98058
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),89206
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),95746
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),39500
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),44041
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),11768
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),41261
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,34105
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,85535
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,75674
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,46308
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,16462
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,62804
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,59986
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,5930
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),4774
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),56518
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),59185
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),94160
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),33582
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),75864
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),25495
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),77603
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),71123
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),3607
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),32102
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,56040
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,19556
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,32779
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,50689
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,59824
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),84692
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),60056
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),9512
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),96947
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),41398
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),7320
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),24391
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),16892
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),95758
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,2825
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),6412
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),90055
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),95442
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),77332
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),67640
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),73138
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),39118
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),85018
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),6843
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),76160
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),15956
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),21743
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),25783
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),59721
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,38541
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,59589
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,29440
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),70806
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),90204
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),83272
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),60932
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),67511
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),7875
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),93372
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),38696
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,50701
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,91823
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,50465
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,76588
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,28074
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,29949
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,63130
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,65107
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),14663
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),86055
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),84105
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),36981
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),9232
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),10232
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),56728
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),59998
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),6055
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),9030
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),31122
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,5966
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,55465
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,51472
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,94454
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,30130
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),30515
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),62760
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),76642
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),41521
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),81006
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),98889
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),14108
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),78451
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),32915
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,29625
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),90020
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),17664
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),78913
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),68428
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),61924
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),24343
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),91867
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),38822
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),36730
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),25844
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),7038
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),43140
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),52288
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),6572
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,87002
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,19572
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,20876
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),87545
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),80909
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),13019
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),93559
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),34647
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),25781
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),23665
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),98157
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,58342
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,71897
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,68028
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,91692
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,47744
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,41501
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,20414
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,93106
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),49195
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),45243
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),81225
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),94796
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),31921
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),39835
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),83802
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),11277
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),7018
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),24078
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),9977
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,32023
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,16086
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,73001
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,87902
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,96660
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),41539
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),46644
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),71856
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),48914
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),68387
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),9710
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),90433
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),34906
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),3586
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,26327
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),65407
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),31504
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),56329
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),25719
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),12277
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),97230
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),85905
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),38486
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),64658
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),55337
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),68361
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),54760
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),11920
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),67582
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,59539
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,51954
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,37382
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),18446
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),44197
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),81017
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),48945
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),54553
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),37107
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),17752
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),26676
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,41080
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,41965
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,41841
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,86898
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,76358
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,70251
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,73694
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,80476
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),60408
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),27603
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),79576
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),82571
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),81210
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),7124
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),93495
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),92303
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),76472
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),14571
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),56751
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,56247
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,42521
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,16978
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,95531
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,44429
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),45497
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),73387
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),65310
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),35537
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),84196
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),22563
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),78967
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),73673
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),82364
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,54466
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),33199
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),39027
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),80394
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),66170
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),75265
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),65209
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),96449
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),52776
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),1833
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),93327
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),43137
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),50438
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),87226
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),50302
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,54826
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,99763
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,26818
+Wifi Device Counter,nCounter,-38.1686428,144.3509363,unknown,unknown,LoraWAN (TTN),96266
+Wifi Device Counter,nCounter,-38.1691458,144.3511856,unknown,Active,LoraWAN (TTN),16055
+Wifi Device Counter,nCounter,-38.1687411,144.3510241,unknown,unknown,LoraWAN (TTN),53166
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1496331,144.360899,unknown,unknown,LoraWAN (TTN),5612
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1493579,144.3595975,unknown,unknown,LoraWAN (TTN),42080
+Wifi Device Counter,Cisco Meraki,-38.147158,144.358161,unknown,unknown,Not LoraWAN,29921
+Wifi Device Counter,Cisco Meraki,-38.143364,144.361926,unknown,unknown,Not LoraWAN,77953
+Wifi Device Counter,Cisco Meraki,-38.147308,144.373781,unknown,unknown,Not LoraWAN,88334
+Wifi Device Counter,nCounter,-38.147906,144.363372,unknown,unknown,LoraWAN (TTN),69373
+Wifi Device Counter,nCounter,-38.1469395,144.3599357,unknown,unknown,LoraWAN (TTN),74853
+Wifi Device Counter,nCounter,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),12988
+Wifi Device Counter,Cisco Meraki,-38.147929,144.358854,unknown,unknown,Not LoraWAN,35120
+Wifi Device Counter,Cisco Meraki,-38.14768,144.361951,unknown,unknown,Not LoraWAN,6459
+Parking,Turbo,-38.1482576,144.3638867,2P Parrallel,Active,LoraWAN (TTN),65765
+Parking,Turbo,-38.1526821,144.3634288,2P Median,Active,LoraWAN (TTN),37922
+Parking,Turbo,-38.1485746,144.3602221,2P Parrallel,Active,LoraWAN (TTN),41893
+Parking,Turbo,-38.1475031,144.3573301,2P Parrallel,Active,LoraWAN (TTN),58500
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),34350
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),79099
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),43613
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),82835
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),61929
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),86703
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),42644
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),94134
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,40464
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,63055
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,66565
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,37070
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,31207
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,70050
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,57964
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,25329
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),81354
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),95334
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),25168
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),11583
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),52516
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),77953
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),6131
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),66268
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),14010
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),18097
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),39308
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,55835
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,85357
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,52187
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,84235
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,81360
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),10416
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),88275
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),35126
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),69208
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),40692
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),59335
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),53526
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),61274
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),15175
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,40079
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),18097
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),14907
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),8412
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),71905
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),54648
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),51426
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),35326
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),5722
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),36647
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),2132
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),18552
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),87977
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),56639
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),79084
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,82757
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,47003
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,24225
+Wifi Device Counter,nCounter,-38.1686428,144.3509363,unknown,unknown,LoraWAN (TTN),44661
+Wifi Device Counter,nCounter,-38.1691458,144.3511856,unknown,Active,LoraWAN (TTN),46317
+Wifi Device Counter,nCounter,-38.1687411,144.3510241,unknown,unknown,LoraWAN (TTN),29591
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1496331,144.360899,unknown,unknown,LoraWAN (TTN),24894
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1493579,144.3595975,unknown,unknown,LoraWAN (TTN),86276
+Wifi Device Counter,Cisco Meraki,-38.147158,144.358161,unknown,unknown,Not LoraWAN,58377
+Wifi Device Counter,Cisco Meraki,-38.143364,144.361926,unknown,unknown,Not LoraWAN,85288
+Wifi Device Counter,Cisco Meraki,-38.147308,144.373781,unknown,unknown,Not LoraWAN,36893
+Wifi Device Counter,nCounter,-38.147906,144.363372,unknown,unknown,LoraWAN (TTN),53945
+Wifi Device Counter,nCounter,-38.1469395,144.3599357,unknown,unknown,LoraWAN (TTN),61332
+Wifi Device Counter,nCounter,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),50750
+Wifi Device Counter,Cisco Meraki,-38.147929,144.358854,unknown,unknown,Not LoraWAN,15591
+Wifi Device Counter,Cisco Meraki,-38.14768,144.361951,unknown,unknown,Not LoraWAN,27022
+Parking,Turbo,-38.1482576,144.3638867,2P Parrallel,Active,LoraWAN (TTN),34047
+Parking,Turbo,-38.1526821,144.3634288,2P Median,Active,LoraWAN (TTN),10494
+Parking,Turbo,-38.1485746,144.3602221,2P Parrallel,Active,LoraWAN (TTN),81160
+Parking,Turbo,-38.1475031,144.3573301,2P Parrallel,Active,LoraWAN (TTN),53856
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),7916
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),48315
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),2126
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),61085
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),15591
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),8535
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),50014
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),56351
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,25840
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,83221
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,65668
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,34416
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,45097
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,13205
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,66064
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,25032
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),65385
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),57526
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),5285
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),92414
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),36119
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),9232
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),95370
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),64004
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),71741
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),14691
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),23774
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,33674
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,59479
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,61397
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,35587
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,68660
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),76066
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),93557
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),25152
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),72612
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),35247
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),88277
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),51255
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),97704
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),86442
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,69586
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),57002
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),22856
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),45874
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),60413
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),68631
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),53426
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),92151
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),85773
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),26764
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),21926
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),4124
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),57859
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),68230
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),55366
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,51715
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,48662
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,13029
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),14415
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),47334
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),27089
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),70437
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),68493
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),70283
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),32358
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),6022
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,71912
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,54050
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,17281
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,17168
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,23878
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,58252
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,35682
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,94917
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),29064
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),67401
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),49305
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),32205
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),29924
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),85732
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),16876
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),33879
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),60919
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),16789
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),39553
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,67576
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,75888
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,65343
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,47838
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,81757
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),65913
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),60336
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),25835
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),25657
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),21181
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),66002
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),91349
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),17370
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),10564
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,46213
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),73709
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),13818
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),18392
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),74541
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),22907
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),59980
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),79432
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),21472
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),18914
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),59582
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),26624
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),44014
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),61023
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),9793
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,21714
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,71260
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,45214
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),52992
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),38952
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),25345
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),72033
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),20474
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),19445
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),45132
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),77662
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,56847
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,75699
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,30934
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,41649
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,96427
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,27329
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,78177
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,36629
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),12793
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),80109
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),53872
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),67054
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),34088
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),82630
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),44963
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),60379
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),98076
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),13482
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),76037
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,37681
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,12365
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,41921
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,36777
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,65809
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),94035
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),67127
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),19014
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),53088
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),35259
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),26576
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),56165
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),93072
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),83196
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,98337
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),49595
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),35902
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),11721
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),2951
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),72388
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),25451
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),40263
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),84611
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),56057
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),1917
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),71579
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),46536
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),7971
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),8919
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,25821
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,3682
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,41199
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),35653
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),96202
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),24618
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),66185
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),30518
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),1018
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),68576
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),89749
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,49993
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,57330
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,37804
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,46260
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,22372
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,78410
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,53965
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,87854
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),78514
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),69305
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),66503
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),74575
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),36290
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),98079
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),34847
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),94880
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),89564
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),74193
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),8828
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,5916
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,51079
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,23501
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,68524
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,50833
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),23879
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),65001
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),72823
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),99450
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),54329
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),18716
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),38482
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),89167
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),99656
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,43243
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),81017
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),82427
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),59284
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),45800
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),45036
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),58731
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),89559
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),67592
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),52734
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),97341
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),68324
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),35250
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),56111
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),29462
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,33225
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,2429
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,92265
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),27023
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),93913
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),96215
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),64487
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),31282
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),17703
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),2728
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),67276
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,94775
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,88432
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,4683
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,57763
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,4553
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,10737
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,80405
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,20573
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),52927
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),88095
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),94496
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),2422
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),32014
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),3187
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),56145
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),48521
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),60349
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),42899
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),28563
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,83375
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,18789
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,36391
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,58070
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,53555
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),90635
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),56420
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),72476
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),6285
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),23870
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),51454
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),62422
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),67819
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),80901
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,80933
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),51538
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),33447
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),94739
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),90061
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),24451
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),99285
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),43979
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),84594
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),59191
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),72810
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),26675
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),87534
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),22354
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),11229
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,66808
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,3992
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,35169
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1493579,144.3595975,unknown,unknown,LoraWAN (TTN),57961
+Wifi Device Counter,Cisco Meraki,-38.147158,144.358161,unknown,unknown,Not LoraWAN,74859
+Wifi Device Counter,Cisco Meraki,-38.143364,144.361926,unknown,unknown,Not LoraWAN,1770
+Wifi Device Counter,Cisco Meraki,-38.147308,144.373781,unknown,unknown,Not LoraWAN,77545
+Wifi Device Counter,nCounter,-38.147906,144.363372,unknown,unknown,LoraWAN (TTN),62779
+Wifi Device Counter,nCounter,-38.1469395,144.3599357,unknown,unknown,LoraWAN (TTN),67318
+Wifi Device Counter,nCounter,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),68072
+Wifi Device Counter,Cisco Meraki,-38.147929,144.358854,unknown,unknown,Not LoraWAN,97842
+Wifi Device Counter,Cisco Meraki,-38.14768,144.361951,unknown,unknown,Not LoraWAN,6927
+Parking,Turbo,-38.1482576,144.3638867,2P Parrallel,Active,LoraWAN (TTN),20277
+Parking,Turbo,-38.1526821,144.3634288,2P Median,Active,LoraWAN (TTN),19434
+Parking,Turbo,-38.1485746,144.3602221,2P Parrallel,Active,LoraWAN (TTN),80021
+Parking,Turbo,-38.1475031,144.3573301,2P Parrallel,Active,LoraWAN (TTN),23219
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),38854
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),15836
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),95914
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),43196
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),60098
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),6902
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),65650
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),27979
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,22182
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,84000
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,19712
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,94660
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,55289
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,88140
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,2443
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,18042
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),74656
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),98631
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),41650
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),12452
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),4190
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),74162
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),38798
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),36097
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),87726
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),16244
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),3019
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,67704
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,35851
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,19678
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,61670
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,6027
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),19039
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),38658
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),63335
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),25648
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),38877
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),85742
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),34454
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),78615
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),25269
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,41787
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),69057
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),6210
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),70637
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),90096
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),29944
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),29486
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),42907
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),24448
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),58294
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),68176
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),69246
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),71036
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),63113
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),80547
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,93392
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,76866
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,58255
+Wifi Device Counter,nCounter,-38.1686428,144.3509363,unknown,unknown,LoraWAN (TTN),56372
+Wifi Device Counter,nCounter,-38.1691458,144.3511856,unknown,Active,LoraWAN (TTN),14365
+Wifi Device Counter,nCounter,-38.1687411,144.3510241,unknown,unknown,LoraWAN (TTN),86573
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1496331,144.360899,unknown,unknown,LoraWAN (TTN),1431
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1493579,144.3595975,unknown,unknown,LoraWAN (TTN),26743
+Wifi Device Counter,Cisco Meraki,-38.147158,144.358161,unknown,unknown,Not LoraWAN,13900
+Wifi Device Counter,Cisco Meraki,-38.143364,144.361926,unknown,unknown,Not LoraWAN,72472
+Wifi Device Counter,Cisco Meraki,-38.147308,144.373781,unknown,unknown,Not LoraWAN,80814
+Wifi Device Counter,nCounter,-38.147906,144.363372,unknown,unknown,LoraWAN (TTN),23441
+Wifi Device Counter,nCounter,-38.1469395,144.3599357,unknown,unknown,LoraWAN (TTN),56442
+Wifi Device Counter,nCounter,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),77762
+Wifi Device Counter,Cisco Meraki,-38.147929,144.358854,unknown,unknown,Not LoraWAN,53898
+Wifi Device Counter,Cisco Meraki,-38.14768,144.361951,unknown,unknown,Not LoraWAN,17041
+Parking,Turbo,-38.1482576,144.3638867,2P Parrallel,Active,LoraWAN (TTN),70470
+Parking,Turbo,-38.1526821,144.3634288,2P Median,Active,LoraWAN (TTN),51124
+Parking,Turbo,-38.1485746,144.3602221,2P Parrallel,Active,LoraWAN (TTN),68107
+Parking,Turbo,-38.1475031,144.3573301,2P Parrallel,Active,LoraWAN (TTN),18161
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),10810
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),61750
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),26131
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),79463
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),20598
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),78408
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),48186
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),60564
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,68257
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,63789
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,54176
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,53357
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,68046
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,19046
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,91178
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,34119
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),2728
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),69173
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),42856
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),84269
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),40240
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),33717
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),65076
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),23945
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),11541
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),25760
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),94573
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,85394
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,1830
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,3644
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,92156
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,62986
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),43148
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),21060
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),43661
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),97785
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),57158
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),18667
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),30700
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),52671
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),78573
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,72974
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),43745
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),39341
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),8448
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),21235
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),83608
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),2773
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),32086
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),95830
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),98045
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),9812
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),23477
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),75076
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),95248
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),30611
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,4396
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,96300
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,68448
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),5106
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),91512
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),89877
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),52442
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),51410
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),82711
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),36195
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),90568
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,4139
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,55773
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,16367
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,64117
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,26511
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,44610
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,18712
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,48779
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),71017
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),31394
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),30164
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),87281
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),54097
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),54885
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),40611
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),3712
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),18622
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),7280
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),27616
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,72404
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,19217
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,22811
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,20278
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,57499
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),91807
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),60000
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),78972
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),84124
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),41265
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),67541
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),56335
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),86153
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),30895
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,97743
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),99471
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),52456
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),56913
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),8119
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),39317
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),95639
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),21439
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),65305
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),83600
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),90827
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),56955
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),36345
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),44187
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),79870
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,55039
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,30738
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,53677
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),77071
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),89207
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),90968
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),78022
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),23724
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),46772
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),39187
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),51966
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,76139
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,10161
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,30365
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,32656
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,9236
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,41893
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,15270
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,30453
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),43436
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),9677
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),82664
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),9376
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),50390
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),75608
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),60361
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),30385
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),24530
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),40824
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),42237
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,37954
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,26058
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,64732
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,70448
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,74526
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),70384
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),50181
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),37029
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),1425
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),60072
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),4738
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),85662
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),73595
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),10851
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,42146
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),45551
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),74113
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),35830
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),75173
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),57931
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),59747
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),66321
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),77130
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),79977
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),20016
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),31253
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),84742
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),15183
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),9118
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,25057
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,75443
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,33185
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),75194
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),19195
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),98017
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),31137
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),8079
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),44312
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),99556
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),96610
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,38158
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,36182
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,44425
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,75751
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,70393
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,3214
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,7688
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,17047
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),82862
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),60890
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),79969
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),36525
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),23733
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),25825
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),18631
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),90623
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),51944
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),27529
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),21428
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,41075
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,74044
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,63065
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,40133
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,22136
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),40363
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),90562
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),69843
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),83725
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),40289
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),15781
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),7232
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),89838
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),58675
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,4753
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),2968
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),51271
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),45650
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),26347
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),67641
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),61169
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),45224
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),34272
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),42370
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),50325
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),48245
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),63070
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),2516
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),56919
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,33747
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,70449
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,50324
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),4054
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),75880
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),35637
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),21113
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),68733
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),28412
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),5177
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),66607
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,60704
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,85695
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,75901
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,83020
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,72342
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,58068
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,29597
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,52079
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),69808
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),16806
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),85066
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),7292
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),91113
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),60392
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),36751
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),11752
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),38862
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),81970
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),8214
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,21975
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,52081
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,24060
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,43228
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,64462
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),6350
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),24977
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),82154
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),17195
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),21276
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),76242
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),37004
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),4770
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),73429
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,2360
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),13456
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),65743
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),41924
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),76514
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),52828
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),46997
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),18504
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),7904
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),31115
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),28797
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),18368
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),75570
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),12525
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),34484
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,73147
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,33285
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,99034
+Wifi Device Counter,nCounter,-38.1686428,144.3509363,unknown,unknown,LoraWAN (TTN),56341
+Wifi Device Counter,nCounter,-38.1691458,144.3511856,unknown,Active,LoraWAN (TTN),57022
+Wifi Device Counter,nCounter,-38.1687411,144.3510241,unknown,unknown,LoraWAN (TTN),20318
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1496331,144.360899,unknown,unknown,LoraWAN (TTN),21177
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1493579,144.3595975,unknown,unknown,LoraWAN (TTN),61445
+Wifi Device Counter,Cisco Meraki,-38.147158,144.358161,unknown,unknown,Not LoraWAN,48388
+Wifi Device Counter,Cisco Meraki,-38.143364,144.361926,unknown,unknown,Not LoraWAN,38202
+Wifi Device Counter,Cisco Meraki,-38.147308,144.373781,unknown,unknown,Not LoraWAN,93504
+Wifi Device Counter,nCounter,-38.147906,144.363372,unknown,unknown,LoraWAN (TTN),42348
+Wifi Device Counter,nCounter,-38.1469395,144.3599357,unknown,unknown,LoraWAN (TTN),4096
+Wifi Device Counter,nCounter,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),13720
+Wifi Device Counter,Cisco Meraki,-38.147929,144.358854,unknown,unknown,Not LoraWAN,14858
+Wifi Device Counter,Cisco Meraki,-38.14768,144.361951,unknown,unknown,Not LoraWAN,6132
+Parking,Turbo,-38.1482576,144.3638867,2P Parrallel,Active,LoraWAN (TTN),57355
+Parking,Turbo,-38.1526821,144.3634288,2P Median,Active,LoraWAN (TTN),50519
+Parking,Turbo,-38.1485746,144.3602221,2P Parrallel,Active,LoraWAN (TTN),25178
+Parking,Turbo,-38.1475031,144.3573301,2P Parrallel,Active,LoraWAN (TTN),23855
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),65586
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),54281
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),88004
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),49084
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),96105
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),92668
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),39299
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),75186
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,54152
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,78528
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,35304
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,84334
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,76517
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,76791
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,75134
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,72153
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),65086
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),18504
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),43155
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),74923
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),96691
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),31576
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),33334
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),50378
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),16643
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),94343
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),33310
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,4439
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,54053
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,34361
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,80546
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,31328
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),19827
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),92335
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),22807
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),94924
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),29278
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),30788
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),49905
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),59881
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),59866
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,66777
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),95473
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),50529
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),94591
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),66439
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),40377
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),38375
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),84458
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),56988
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),88713
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),1562
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),38899
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),80364
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),1235
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),96673
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,16861
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,51673
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,93917
+Wifi Device Counter,nCounter,-38.1686428,144.3509363,unknown,unknown,LoraWAN (TTN),75801
+Wifi Device Counter,nCounter,-38.1691458,144.3511856,unknown,Active,LoraWAN (TTN),11627
+Wifi Device Counter,nCounter,-38.1687411,144.3510241,unknown,unknown,LoraWAN (TTN),28488
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1496331,144.360899,unknown,unknown,LoraWAN (TTN),68664
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1493579,144.3595975,unknown,unknown,LoraWAN (TTN),24413
+Wifi Device Counter,Cisco Meraki,-38.147158,144.358161,unknown,unknown,Not LoraWAN,74936
+Wifi Device Counter,Cisco Meraki,-38.143364,144.361926,unknown,unknown,Not LoraWAN,90244
+Wifi Device Counter,Cisco Meraki,-38.147308,144.373781,unknown,unknown,Not LoraWAN,39439
+Wifi Device Counter,nCounter,-38.147906,144.363372,unknown,unknown,LoraWAN (TTN),6742
+Wifi Device Counter,nCounter,-38.1469395,144.3599357,unknown,unknown,LoraWAN (TTN),14034
+Wifi Device Counter,nCounter,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),25456
+Wifi Device Counter,Cisco Meraki,-38.147929,144.358854,unknown,unknown,Not LoraWAN,1237
+Wifi Device Counter,Cisco Meraki,-38.14768,144.361951,unknown,unknown,Not LoraWAN,1357
+Parking,Turbo,-38.1482576,144.3638867,2P Parrallel,Active,LoraWAN (TTN),29579
+Parking,Turbo,-38.1526821,144.3634288,2P Median,Active,LoraWAN (TTN),78462
+Parking,Turbo,-38.1485746,144.3602221,2P Parrallel,Active,LoraWAN (TTN),4691
+Parking,Turbo,-38.1475031,144.3573301,2P Parrallel,Active,LoraWAN (TTN),43709
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),47820
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),57900
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),3700
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),60875
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),86554
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),24010
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),39616
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),4767
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,27877
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,97320
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,76374
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,77707
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,97465
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,65943
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,99724
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,50398
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),90107
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),59242
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),89613
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),39495
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),15723
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),77886
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),99374
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),60942
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),36347
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),1344
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),48000
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,47499
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,36293
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,73617
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,39228
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,8458
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),56421
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),55997
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),9050
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),4867
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),96019
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),97786
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),81219
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),9281
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),97084
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,45727
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),75035
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),69049
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),14442
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),75884
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),98055
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),98317
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),58251
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),62212
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),17828
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),99358
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),29714
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),48482
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),40323
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),43802
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,9390
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,56621
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,7951
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),65670
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),69235
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),17243
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),92524
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),47117
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),20545
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),21228
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),65394
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,95682
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,63444
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,38686
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,12609
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,50304
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,15792
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,38108
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,57762
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),65779
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),70670
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),18325
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),47268
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),30243
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),70649
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),70423
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),16160
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),36197
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),74749
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),77520
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,84476
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,90625
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,72191
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,76176
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,19277
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),94957
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),66819
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),3127
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),26406
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),57980
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),93703
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),27731
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),39210
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),93076
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,86681
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),65602
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),57211
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),10630
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),59410
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),54292
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),61293
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),68282
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),27237
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),15164
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),83132
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),64704
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),55694
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),31111
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),78085
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,86356
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,11067
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,44077
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),67032
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),56280
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),42232
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),37666
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),43386
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),95548
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),60594
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),58313
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,35984
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,41666
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,14186
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,62892
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,27198
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,5836
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,81692
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,47406
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),71006
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),56508
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),53037
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),50792
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),64627
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),12271
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),33905
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),10468
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),49221
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),99590
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),74208
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,60498
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,57391
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,65710
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,30501
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,43308
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),59995
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),67706
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),22520
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),44629
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),50437
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),11869
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),27525
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),89737
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),29962
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,98581
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),1546
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),10353
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),42295
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),21976
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),19842
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),49293
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),95989
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),92927
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),74200
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),6318
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),12329
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),71551
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),57472
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),20103
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,9313
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,52469
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,32645
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),73304
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),48096
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),41178
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),28988
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),45422
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),65203
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),66663
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),71502
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,7063
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,35021
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,45834
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,24209
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,73716
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,81079
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,48906
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,24668
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),85809
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),53816
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),86577
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),40770
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),78774
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),24372
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),98151
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),26936
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),1100
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),75998
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),37390
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,32917
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,36729
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,31418
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,13684
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,20270
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),9936
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),61681
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),31919
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),82782
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),51194
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),75992
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),42592
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),68510
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),75371
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,40849
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),55408
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),32547
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),96201
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),20666
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),51843
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),49322
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),42427
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),69273
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),60234
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),84484
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),38158
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),56465
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),32644
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),41022
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,38554
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,97087
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,28462
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),74241
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),25181
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),84525
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),69545
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),70894
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),87137
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),60206
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),10618
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,19737
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,76911
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,39500
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,85114
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,12587
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,51540
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,53172
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,4646
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),24253
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),28115
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),69846
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),79396
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),53511
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),46797
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),19981
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),68975
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),37657
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),27968
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),67485
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,41830
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,40191
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,50572
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,10700
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,15678
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),16451
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),56170
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),96969
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),47393
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),82200
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),5700
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),39819
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),22455
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),57459
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,1732
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),35879
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),21574
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),19447
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),90355
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),91211
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),81532
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),57326
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),96381
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),71352
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),52408
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),49244
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),74859
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),84069
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),10288
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,6143
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,63622
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,50839
+Wifi Device Counter,nCounter,-38.1686428,144.3509363,unknown,unknown,LoraWAN (TTN),28877
+Wifi Device Counter,nCounter,-38.1691458,144.3511856,unknown,Active,LoraWAN (TTN),7040
+Wifi Device Counter,nCounter,-38.1687411,144.3510241,unknown,unknown,LoraWAN (TTN),23436
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1496331,144.360899,unknown,unknown,LoraWAN (TTN),84951
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1493579,144.3595975,unknown,unknown,LoraWAN (TTN),43024
+Wifi Device Counter,Cisco Meraki,-38.147158,144.358161,unknown,unknown,Not LoraWAN,15658
+Wifi Device Counter,Cisco Meraki,-38.143364,144.361926,unknown,unknown,Not LoraWAN,73220
+Wifi Device Counter,Cisco Meraki,-38.147308,144.373781,unknown,unknown,Not LoraWAN,74574
+Wifi Device Counter,nCounter,-38.147906,144.363372,unknown,unknown,LoraWAN (TTN),52200
+Wifi Device Counter,nCounter,-38.1469395,144.3599357,unknown,unknown,LoraWAN (TTN),67580
+Wifi Device Counter,nCounter,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),88132
+Wifi Device Counter,Cisco Meraki,-38.147929,144.358854,unknown,unknown,Not LoraWAN,34468
+Wifi Device Counter,Cisco Meraki,-38.14768,144.361951,unknown,unknown,Not LoraWAN,46498
+Parking,Turbo,-38.1482576,144.3638867,2P Parrallel,Active,LoraWAN (TTN),57711
+Parking,Turbo,-38.1526821,144.3634288,2P Median,Active,LoraWAN (TTN),31926
+Parking,Turbo,-38.1485746,144.3602221,2P Parrallel,Active,LoraWAN (TTN),3810
+Parking,Turbo,-38.1475031,144.3573301,2P Parrallel,Active,LoraWAN (TTN),72490
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),12527
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),86225
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),16460
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),73155
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),5937
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),32207
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),7301
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),86243
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,43649
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,64467
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,3931
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,94464
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,99785
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,23698
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,55544
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,1950
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),73366
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),88050
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),55914
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),87256
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),60105
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),68011
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),61499
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),52764
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),67173
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),52630
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),30850
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,32953
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,44042
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,52895
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,98424
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,92790
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),36096
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),91531
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),82366
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),6397
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),70387
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),8330
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),80654
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),75401
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),15437
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,10431
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),67339
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),89252
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),25891
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),39051
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),74402
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),70460
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),75381
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),46888
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),75367
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),96393
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),67693
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),82023
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),91653
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),21434
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,79370
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,30622
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,21290
+Wifi Device Counter,nCounter,-38.1686428,144.3509363,unknown,unknown,LoraWAN (TTN),33043
+Wifi Device Counter,nCounter,-38.1691458,144.3511856,unknown,Active,LoraWAN (TTN),21119
+Wifi Device Counter,nCounter,-38.1687411,144.3510241,unknown,unknown,LoraWAN (TTN),32064
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1496331,144.360899,unknown,unknown,LoraWAN (TTN),13451
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1493579,144.3595975,unknown,unknown,LoraWAN (TTN),15906
+Wifi Device Counter,Cisco Meraki,-38.147158,144.358161,unknown,unknown,Not LoraWAN,54660
+Wifi Device Counter,Cisco Meraki,-38.143364,144.361926,unknown,unknown,Not LoraWAN,96575
+Wifi Device Counter,Cisco Meraki,-38.147308,144.373781,unknown,unknown,Not LoraWAN,2145
+Wifi Device Counter,nCounter,-38.147906,144.363372,unknown,unknown,LoraWAN (TTN),54234
+Wifi Device Counter,nCounter,-38.1469395,144.3599357,unknown,unknown,LoraWAN (TTN),50511
+Wifi Device Counter,nCounter,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),96548
+Wifi Device Counter,Cisco Meraki,-38.147929,144.358854,unknown,unknown,Not LoraWAN,85710
+Wifi Device Counter,Cisco Meraki,-38.14768,144.361951,unknown,unknown,Not LoraWAN,72206
+Parking,Turbo,-38.1482576,144.3638867,2P Parrallel,Active,LoraWAN (TTN),81882
+Parking,Turbo,-38.1526821,144.3634288,2P Median,Active,LoraWAN (TTN),79484
+Parking,Turbo,-38.1485746,144.3602221,2P Parrallel,Active,LoraWAN (TTN),42301
+Parking,Turbo,-38.1475031,144.3573301,2P Parrallel,Active,LoraWAN (TTN),62851
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),90278
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),3536
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),2886
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),8542
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),66307
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),84655
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),50561
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),79232
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,77774
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,23029
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,29479
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,44642
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,65177
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,99746
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,21106
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,68068
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),34202
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),99552
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),42621
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),48233
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),76198
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),72164
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),92666
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),99633
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),6968
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),85987
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),74339
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,38148
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,85761
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,81345
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,88561
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,32217
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),36647
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),10167
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),54556
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),64229
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),23480
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),23329
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),58030
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),99980
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),45930
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,77939
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),35137
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),90099
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),44733
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),93479
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),68253
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),11069
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),89941
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),16705
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),85338
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),46256
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),45334
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),12654
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),71705
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),79393
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,46319
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,52662
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,87949
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),21638
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),18475
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),33130
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),14294
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),57059
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),53356
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),37609
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),36156
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,41901
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,92273
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,66762
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,7415
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,41111
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,41588
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,73473
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,88598
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),53564
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),79872
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),20468
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),93555
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),41413
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),31750
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),91859
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),39344
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),56703
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),60582
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),65640
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,36071
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,89864
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,93987
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,84197
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,23910
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),21079
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),61728
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),50129
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),96196
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),30564
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),14099
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),91150
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),78859
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),95335
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,3496
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),32465
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),17871
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),25447
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),85882
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),88173
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),46555
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),86810
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),82304
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),90357
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),27377
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),20359
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),36223
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),23993
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),29724
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,31527
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,79079
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,60972
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),22542
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),34177
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),82654
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),36410
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),63823
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),61256
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),39509
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),11711
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,28459
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,7705
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,92463
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,37773
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,16141
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,54690
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,8527
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,37742
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),71648
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),21126
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),86687
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),73990
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),50013
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),15990
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),90993
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),12948
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),33438
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),87045
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),32357
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,96999
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,45015
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,56452
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,36658
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,23419
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),15744
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),20645
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),43282
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),81211
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),17392
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),76934
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),85868
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),19230
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),40974
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,62530
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),63046
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),1663
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),92251
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),62162
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),68515
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),84275
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),7610
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),79454
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),87000
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),4628
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),41560
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),1987
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),72821
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),9058
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,88967
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,88391
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,96083
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),90091
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),85781
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),46169
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),68338
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),26216
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),45882
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),58552
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),56492
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,93852
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,99150
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,30340
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,50004
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,80818
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,83138
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,88792
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,15821
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),82676
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),5861
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),30454
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),15387
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),2562
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),58974
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),17849
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),23370
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),26957
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),22490
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),74987
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,22549
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,94102
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,7975
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,34659
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,79881
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),93698
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),26738
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),70118
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),55620
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),89211
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),21948
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),82079
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),66199
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),79247
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,7391
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),92652
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),96461
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),90122
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),44008
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),61535
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),8624
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),75545
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),15748
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),7145
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),77877
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),16203
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),52057
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),82892
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),88748
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,60615
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,35452
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,93470
+Wifi Device Counter,nCounter,-38.1424258,144.360149,unknown,Inactive,LoraWAN (TTN),2601
+Wifi Device Counter,nCounter,-38.1439919,144.3637687,unknown,Inactive,LoraWAN (TTN),3766
+Wifi Device Counter,nCounter,-38.1454818,144.3657981,unknown,Inactive,LoraWAN (TTN),52046
+Wifi Device Counter,nCounter,-38.1469338,144.3711246,unknown,Active,LoraWAN (TTN),5128
+Wifi Device Counter,nCounter,-38.1746141,144.3430678,unknown,Active,LoraWAN (TTN),76054
+Wifi Device Counter,nCounter,-38.1274401,144.3549584,unknown,Active,LoraWAN (TTN),18858
+Weather Station,Atmos,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),17324
+Weather Station,Atmos,-38.1456638,144.3587789,unknown,Active,LoraWAN (TTN),98802
+Weather Station,Atmos,-38.1274401,144.3549584,unknown,Inactive,Not LoraWAN,49004
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,47870
+Wifi Device Counter,nCounter,-38.1687756,144.3512498,unknown,Active,Not LoraWAN,72988
+Wifi Device Counter,Cisco Meraki,-38.143849,144.362906,unknown,unknown,Not LoraWAN,45372
+Wifi Device Counter,nCounter,-38.1458692,144.3581138,unknown,Active,Not LoraWAN,22521
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,Not LoraWAN,88536
+Wifi Device Counter,nCounter,-38.1470072,144.3565397,unknown,unknown,Not LoraWAN,9128
+Wifi Device Counter,nCounter,-38.14762,144.3622749,unknown,Active,Not LoraWAN,30256
+Parking,Turbo,-38.148484,144.362902,2P Parrallel,Active,LoraWAN (TTN),93646
+Parking,Turbo,-38.1484674,144.3631551,2P Parrallel,Active,LoraWAN (TTN),94933
+Parking,Turbo,-38.1515048,144.3643487,2P Diagonal,Active,LoraWAN (TTN),5729
+Parking,Turbo,-38.1495576,144.3603029,2P Parrallel,Active,LoraWAN (TTN),70144
+Parking,Turbo,-38.1510081,144.3579266,2P Parrallel,Active,LoraWAN (TTN),19167
+Parking,Turbo,-38.1512738,144.3581845,2P Parrallel,Active,LoraWAN (TTN),73638
+Parking,Turbo,-38.1472291,144.3567211,2P Parrallel,Active,LoraWAN (TTN),92459
+Parking,Turbo,-38.1483292,144.3648312,2P Parrallel,Active,LoraWAN (TTN),46117
+Wifi Device Counter,nCounter,-38.1430798,144.361831,unknown,Active,LoraWAN (TTN),68560
+Wifi Device Counter,nCounter,-38.1463294,144.367355,unknown,Inactive,LoraWAN (TTN),65966
+Wifi Device Counter,nCounter,-38.1479277,144.3588385,unknown,Active,LoraWAN (TTN),89607
+Weather Station,Atmos,-38.1861465,144.3938752,unknown,Active,Not LoraWAN,7043
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,5213
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,99482
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,69030
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,87077
+Wifi Device Counter,nCounter,-38.1494367,144.3774611,unknown,Active,LoraWAN (TTN),58130
+Wifi Device Counter,nCounter,-38.1446587,144.3592925,unknown,Assigned,LoraWAN (TTN),89495
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.144711,144.360452,unknown,unknown,LoraWAN (TTN),7446
+Indoor Temp Sensor,Elsys.SE ESM5K,-38.1468119,144.3588074,unknown,unknown,LoraWAN (TTN),23419
+Wifi Device Counter,nCounter,-38.1493122,144.3770579,unknown,Active,LoraWAN (TTN),56227
+Wifi Device Counter,nCounter,-38.1447631,144.3595969,unknown,Active,LoraWAN (TTN),12846
+Wifi Device Counter,nCounter,-38.1496014,144.3608612,unknown,unknown,LoraWAN (TTN),9391
+Wifi Device Counter,nCounter,-38.1489155,144.3584489,unknown,Active,LoraWAN (TTN),64085
+Wifi Device Counter,nCounter,-38.1474393,144.3576924,unknown,Active,LoraWAN (TTN),7277
+Wifi Device Counter,Cisco Meraki,-38.148573,144.361279,unknown,unknown,Not LoraWAN,9081
+Parking,Turbo,-38.1521818,144.3642471,2P Diagonal,Active,LoraWAN (TTN),55057
+Parking,Turbo,-38.1525202,144.3632244,2P Parrallel,Active,LoraWAN (TTN),72660
+Parking,Turbo,-38.1485123,144.3611459,2P Parrallel,Active,LoraWAN (TTN),29194
+Parking,Turbo,-38.1495716,144.3610219,2P Parrallel,Active,LoraWAN (TTN),31973
+Parking,Turbo,-38.1498852,144.3614617,2P Parrallel,Active,LoraWAN (TTN),59740
+Parking,Turbo,-38.1510205,144.3573064,2P Parrallel,Active,LoraWAN (TTN),23268
+Parking,Turbo,-38.1483584,144.3646351,2P Median,Active,LoraWAN (TTN),49937
+Parking,Turbo,-38.1432402,144.3611037,3P Diagonal,Active,LoraWAN (TTN),6925
+Parking,Turbo,-38.1514218,144.364608,2P Diagonal,To be installed,LoraWAN (TTN),39334
+Wifi Device Counter,nCounter,-38.1467049,144.3683997,unknown,Active,LoraWAN (TTN),63405
+Wifi Device Counter,nCounter,-38.1475187,144.3737408,unknown,Inactive,LoraWAN (TTN),16959
+Wifi Device Counter,nCounter,-38.1861465,144.3938752,unknown,Active,LoraWAN (TTN),68358
+Wifi Device Counter,nCounter,-38.1220226,144.3591414,unknown,Active,LoraWAN (TTN),31267
+Wifi Device Counter,nCounter,-38.1456638,144.3587789,unknown,Assigned,LoraWAN (TTN),71384
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,58863
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,8105
+Parking,Turbo,0,0,unknown,Active,Not LoraWAN,51014
